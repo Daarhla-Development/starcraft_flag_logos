@@ -3,6 +3,8 @@
 A **Stellars** mod which adds flag logos from the **Starcraft** universe.
 Includes a total of 90 logos from all three races: 39 for Terran, 27 for Zerg, and 24 for Protoss.
 
+Steam mod page can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2661609256
+
 ## ✓ Achievement Compatible
 - Stellaris version 3.8.4
 

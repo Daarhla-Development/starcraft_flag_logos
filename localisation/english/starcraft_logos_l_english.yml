@@ -1,0 +1,7 @@
+﻿l_english:
+ FLAG_CATEGORY_terran:0 "Terran I"
+ FLAG_CATEGORY_terran2:0 "Terran II"
+ FLAG_CATEGORY_protoss:0 "Protoss I"
+ FLAG_CATEGORY_protoss2:0 "Protoss II"
+ FLAG_CATEGORY_zerg:0 "Zerg I"
+ FLAG_CATEGORY_zerg2:0 "Zerg II"

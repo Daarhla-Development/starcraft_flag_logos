@@ -8,5 +8,5 @@ Includes a total of 90 logos from all three races: 39 for Terran, 27 for Zerg, a
 
 ## Copyright
 Assets was edited by Darhlas.
-All original asset designs and edits belong to its rightful owner, **Blizzard Entertainment, Inc.**
+All original asset designs and edits belong to its rightful owner, © **Blizzard Entertainment, Inc.**
 Any commercial use of this project is strictly forbidden.
